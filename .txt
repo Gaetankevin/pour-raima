@@ -1,7 +1,7 @@
-echo "# pour-Astride" >> README.md 
+echo "# pour-raima" >> README.md 
 git init 
 git add .
 git commit -m "premier commit" 
 git branch -M main 
-git remote add origin https://github.com/Gaetankevin/pour-Astride.git
+git remote add origin https://github.com/Gaetankevin/pour-raima.git
  git push -u origin main
